@@ -1,5 +1,4 @@
-
-##Unsupervised Learning for Tailored Banking Solutions(Customer Segmentation)
+## Unsupervised Learning for Tailored Banking Solutions(Customer Segmentation)
 
 ## Project Overview
 
