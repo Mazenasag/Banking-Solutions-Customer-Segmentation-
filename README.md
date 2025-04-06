@@ -4,7 +4,7 @@
 
 This project focuses on the analysis and segmentation of banking customers to improve customer relationship management (CRM) and offer more personalized banking services. By leveraging machine learning techniques such as PCA (Principal Component Analysis) and KMeans clustering, the project analyzes customer behaviors, such as their spending patterns, credit usage, and payment history, to group them into different segments. This enables banks to better understand their customers and tailor services to their specific needs.
 
-## Objective
+## Objective.
 
 The goal of this project is to:
 - **Analyze customer data** to identify key features that influence customer behavior.
